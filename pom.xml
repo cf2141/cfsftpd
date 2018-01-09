@@ -3,7 +3,7 @@
   <groupId>com.acme.sftpd</groupId>
   <artifactId>sftpd</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>sftpd</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -24,6 +24,7 @@
     <connection>scm:git:git@github.com:cf2141/cfsftpd.git</connection>
     <url>scm:git:git@github.com:cf2141/cfsftpd.git</url>
     <developerConnection>scm:git:git@github.com:cf2141/cfsftpd.git</developerConnection>
+    <tag>HEAD</tag>
   </scm>  
 
   <build>
